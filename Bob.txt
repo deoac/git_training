@@ -1,2 +1,4 @@
 Hi!  I'm Bob!
 bob is a palindrome.
+
+changed in change-alice
