@@ -6,3 +6,5 @@ Second line.
 Changed in master.
 
 about to rebase.
+
+changed online
