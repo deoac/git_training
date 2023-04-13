@@ -4,3 +4,5 @@ Second line.
 4th line.
 
 Changed in master.
+
+about to rebase.
